@@ -2,7 +2,7 @@ Source: ksuperkey
 Section: admin
 Priority: optional
 Maintainer: Phoenix <phoenix@netrunner-os.com>
-Build-Depends: debhelper (>= 5), libx11-dev, libxtst-dev
+Build-Depends: debhelper (>= 5), libx11-dev, libxtst-dev, pkg-config
 Standards-Version: 3.7.2
 
 Package: ksuperkey
