@@ -7,6 +7,6 @@ Standards-Version: 3.7.2
 
 Package: ksuperkey
 Architecture: any
-Depends: libx11, libxtst
+Depends:
 Description: Open Application Launcher with Super key
  Open Application Launcher with Super key
