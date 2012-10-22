@@ -1,0 +1,10 @@
+Package: ksuperkey
+Version: 1.0.1
+Architecture: all
+Maintainer: Phoenix <phoenix@netrunner-os.com>
+Installed-Size: 52
+Depends: libx11, libxtst
+Section: admin
+Priority: optional
+Description: Open Application Launcher with Super key
+ Open Application Launcher with Super key

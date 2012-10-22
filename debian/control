@@ -1,0 +1,12 @@
+Source: ksuperkey
+Section: admin
+Priority: optional
+Maintainer: Phoenix <phoenix@netrunner-os.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: ksuperkey
+Architecture: all
+Depends: libx11, libxtst
+Description: Open Application Launcher with Super key
+ Open Application Launcher with Super key
