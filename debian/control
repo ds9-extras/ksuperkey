@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 5), libx11-dev, libxtst-dev
 Standards-Version: 3.7.2
 
 Package: ksuperkey
-Architecture: all
+Architecture: any
 Depends: libx11, libxtst
 Description: Open Application Launcher with Super key
  Open Application Launcher with Super key
